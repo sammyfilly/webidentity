@@ -1,0 +1,3 @@
+run : Nextjs build on Gatsby
+
+ deploy: Nextjs  run deploying to netlify
